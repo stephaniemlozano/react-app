@@ -1,0 +1,11 @@
+.aboutme {
+    display: flex;
+}
+
+.my-picture {
+    padding: 10px;
+}
+
+.about-text {
+    padding-left: 10px;
+}
